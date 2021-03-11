@@ -1,2 +1,4 @@
 *.pt
 data/MNIST/raw/*
+Homework/MNIST.tar.gz
+Homework/MNIST/
