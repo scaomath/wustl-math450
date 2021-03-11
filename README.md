@@ -12,9 +12,8 @@ Browsing every coding lecture's notebook on github you will see a button of runn
 ├── Homework
 │   ├── imports needed
 │  
-├── Lectures files/notebooks
-├── OH
-│   ├── codes during OH live stream
+├── Lectures
+│   ├── notebooks for lecture
 
 ```
 
